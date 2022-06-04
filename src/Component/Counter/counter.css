@@ -1,0 +1,16 @@
+._main_div{
+padding-left: 50%;
+    background-color: blue;
+ 
+}
+
+button{
+    width: 70px;
+    font-size: 50px;
+    font-weight: bold;
+}
+h1{
+    margin: auto;
+    display: flex;
+    text-align:center;
+}
